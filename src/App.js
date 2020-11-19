@@ -1,10 +1,7 @@
+import { Grid } from "@material-ui/core";
 
-function App() {
-  return (
-    <div className="App">
-   
-    </div>
-  );
-}
+const App = () => {
+  return <div>It's div time my dudes</div>;
+};
 
 export default App;
